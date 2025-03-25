@@ -19,4 +19,20 @@ I previously worked as:
 
 ## Research
 
-[1. How Big is Too Big?](file:files/large_boat_thesis.pdf)
+[1. How Big Is Too Big?: The Competitive Effects of Shipping Technology Innovation](https://www.dropbox.com/scl/fi/7hneeza5ykba01z552b6q/large_boat_thesis.pdf?rlkey=sfi9mqxnxpdoo85rjbtqhut97&st=g91wwgna&dl=0)
+
+Technological innovation drives economic progress but can also lead to unintended
+consequences, such as market over-consolidation. This paper examines the competitive
+effects of technological advancement in the container shipping industry, focusing on the
+relationship between vessel size and market structure, and its impact on welfare. Using
+a dynamic oligopoly model and proprietary data, we quantify the economies of scale
+associated with vessel size and explore how it interact with market competition and
+investment behavior. We find that a 10% increase in vessel size reduces operational
+costs by 3.4% but contributes to market concentration, potentially offsetting consumer
+benefits. Counterfactual analysis suggests that the welfare-optimal vessel size is around
+20,000 TEU under current demand level, as larger vessels risk over-consolidating the
+market. Additionally, smaller innovation steps promote competition, while larger steps
+drive consolidation. These findings highlight the need for policymakers to balance the
+efficiency gains of technological advancements with their competitive impacts, particularly
+when designing infrastructure investments in industries with strong economies
+of scale.
