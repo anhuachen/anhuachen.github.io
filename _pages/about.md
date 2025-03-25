@@ -16,3 +16,7 @@ I previously worked as:
 - Summer associate at Cornerstone Research
 - Economics/Research Scientist intern at Flexport
 - Gap-year analyst at Goldman Sachs Global Investment Research
+
+## Research
+
+[1. How Big is Too Big?](file:files/large_boat_thesis.pdf)
