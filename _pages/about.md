@@ -40,8 +40,6 @@ of scale.
 
 [2. Co-opetition On The Seven Seas: Global Strategic Alliance In The Container Shipping Industry](https://www.dropbox.com/scl/fi/0j788qw9v3r7n8kzysuy4/seven_seas_thesis.pdf?rlkey=6y3yxowf6s2txodmd8wldjuvm&st=jj4rtf0k&dl=0)
 
-[(Application: Evaluating the Proposed Fee on Carriers with Chinese-built Vessels by USTR Section 301 Investigation on China's Maritime Dominance)](https://www.dropbox.com/scl/fi/iwbk3n2nkdvp9eaj60k1d/seven_seas_ustr_2025_share.pdf?rlkey=s4v3zb8lfhmsg3za81w6iq5ej&st=d853zwcb&dl=0)
-
 Global strategic alliances have become a defining feature of the container shipping
 industry, allowing firms to pool resources and coordinate operations to achieve
 efficiency gains. However, these alliances also raise concerns about their potential to
